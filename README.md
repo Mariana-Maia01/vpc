@@ -76,13 +76,6 @@ Ao final dos estudos, passei a conseguir:
 - Controlar acesso com Security Groups e ACLs
 - Monitorar atividades com logs
 
----
-
-## 🚀 Próximos passos
-- Alta disponibilidade (Multi-AZ)
-- Load Balancer
-- Auto Scaling
-- Arquiteturas escaláveis na AWS
 
 ---
 
